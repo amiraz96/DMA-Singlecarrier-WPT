@@ -33,7 +33,7 @@ The code currently instantiates a single-user scenario (`M = 1`) with one DMA ce
 
 ## Citing
 
-If you use this code, please cite the associated IEEE Transactions on Wireless Power Transfer article. A BibTeX entry is provided below; update the metadata once you import it from IEEE Xplore.
+If you use this code, please cite the associated article. A BibTeX entry is provided below.
 
 ```bibtex
 @article{DMAWPT2023,
