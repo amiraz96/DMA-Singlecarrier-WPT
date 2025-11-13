@@ -1,6 +1,6 @@
 # DMA-Singlecarrier-WPT
 
-MATLAB reference implementation that accompanies the open-access paper "Single-Carrier Wireless Power Transfer With Dynamic Metasurface Antennas" (IEEE Transactions on Wireless Power Transfer, 2023). The scripts reproduce the alternating semidefinite-programming routine proposed in the paper to design the analog feed network of a dynamic metasurface antenna (DMA) for multi-user microwave wireless power transfer.
+MATLAB reference implementation that accompanies the paper "Energy Beamforming for RF Wireless Power Transfer With Dynamic Metasurface Antennas" (https://ieeexplore.ieee.org/abstract/document/10361540). The scripts reproduce the alternating semidefinite-programming routine proposed in the paper to design the beamforming of a dynamic metasurface antenna (DMA) for multi-user wireless power transfer.
 
 ## Repository structure
 
