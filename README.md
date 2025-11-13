@@ -1,4 +1,4 @@
-# DMA-Singlecarrier-WPT
+# Energy Beamforming for RF Wireless Power Transfer With Dynamic Metasurface Antennas
 
 MATLAB reference implementation that accompanies the paper "Energy Beamforming for RF Wireless Power Transfer With Dynamic Metasurface Antennas" (https://ieeexplore.ieee.org/abstract/document/10361540). The scripts reproduce the alternating semidefinite-programming routine proposed in the paper to design the beamforming of a dynamic metasurface antenna (DMA) for multi-user wireless power transfer.
 
