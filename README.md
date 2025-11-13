@@ -36,16 +36,13 @@ The code currently instantiates a single-user scenario (`M = 1`) with one DMA ce
 If you use this code, please cite the associated article. A BibTeX entry is provided below.
 
 ```bibtex
-@ARTICLE{DMA_azarbahram,
-  author={Azarbahram, Amirhossein and López, Onel L. A. and Latva-Aho, Matti},
-  journal={IEEE Transactions on Wireless Communications}, 
-  title={Waveform Optimization and Beam Focusing for Near-Field Wireless Power Transfer With Dynamic Metasurface Antennas and Non-Linear Energy Harvesters}, 
-  year={2025},
-  volume={24},
-  number={2},
-  pages={1031-1045},
-  keywords={Array signal processing;Radio frequency;Wireless communication;Optimization;Power demand;Complexity theory;Rectifiers;Radio transmitters;Costs;Transmitting antennas;Radio frequency wireless power transfer;waveform design;beamforming;dynamic metasurface antennas;near-field channels},
-  doi={10.1109/TWC.2024.3503908}}
+@article{DMAWPT2023,
+  title={Single-Carrier Wireless Power Transfer With Dynamic Metasurface Antennas},
+  author={Authors et al.},
+  journal={IEEE Transactions on Wireless Power Transfer},
+  year={2023},
+  doi={10.1109/TWPT.2023.10361540}
+}
 ```
 
 ## License
