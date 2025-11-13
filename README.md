@@ -30,11 +30,6 @@ MATLAB reference implementation that accompanies the paper "Energy Beamforming f
 
 The code currently instantiates a single-user scenario (`M = 1`) with one DMA centred in a 10 m × 10 m × 3 m volume. Extend the `user_loc` matrix and power thresholds to cover multi-user cases, and update the region bounds and DMA placement as needed.
 
-## Extending the scripts
-
-* **Alternative propagation models:** Replace `Do_Channels.m` with a model that incorporates blockage, misalignment, or measured channel data if you are targeting indoor deployments.
-* **Hardware constraints:** Modify `Q_DMA.m` to incorporate additional amplitude constraints or quantization steps that match your metasurface tuning hardware.
-* **Performance evaluation:** Log the received power `trace(W'*reshape(Bk(k,:,:), [N_d, N_d]))` across iterations to generate the figures of merit reported in the paper.
 
 ## Citing
 
